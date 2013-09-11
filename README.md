@@ -1,6 +1,6 @@
 ## Contents of this Cloud 66 sample:
 
-This repository uses the following database, which should <i>not</i> be changed.
+This.... tja repository uses the following database, which should <i>not</i> be changed.
 <table>
   <tr>
     <td><b>Database</b></td>
