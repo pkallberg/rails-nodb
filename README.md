@@ -8,7 +8,7 @@ This repository uses the following database, which should <i>not</i> be changed.
   </tr>
 </table>
 
-The following hejjsjjss settings may be changed on a new branch. See below for naming and documentation conventions.
+The following settings may be changed on a new branch. See below for naming and documentation conventions.
 
 | Branch           | master                    |
 | ---------------- |:-------------------------:|
