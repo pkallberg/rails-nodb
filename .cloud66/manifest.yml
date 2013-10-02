@@ -1,7 +1,7 @@
 production:
     rails:
         server:
-            uniquename: frontend
+            unique_name: frontend
         configuration:
             nginx_cors:
                 origin: '*'
