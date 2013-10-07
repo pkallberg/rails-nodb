@@ -1,8 +1,8 @@
 production:
+    environment_variables:
+    	HEJ: hej
+    	ANOTHER: AUTO_GENERATE_5
+    	TJA: AUTO_GENERATE
     rails:
         server:
             unique_name: frontend
-        configuration:
-            nginx_cors:
-                origin: '*'
-                methods: 'GET, OPTION'
