@@ -6,3 +6,5 @@ production:
     rails:
         server:
             unique_name: frontend
+        configuration:
+            passenger_version: 4.0.20
