@@ -4,4 +4,4 @@ production:
             unique_name: frontend
     postgresql:
     	server:
-    		shared_server: frontend
+    	    shared_server: frontend
