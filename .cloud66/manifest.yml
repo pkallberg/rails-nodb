@@ -1,10 +1,7 @@
 production:
-    environment_variables:
-        HEJ: hej
-        ANOTHER: AUTO_GENERATE_5
-        TJA: AUTO_GENERATE
     rails:
         server:
             unique_name: frontend
-        configuration:
-            passenger_version: 4.0.20
+    postgresql:
+    	server:
+    		shared_server: frontend
