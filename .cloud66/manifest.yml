@@ -2,6 +2,3 @@ production:
     rails:
         server:
             unique_name: frontend
-    postgresql:
-    	server:
-    	    shared_server: frontend
