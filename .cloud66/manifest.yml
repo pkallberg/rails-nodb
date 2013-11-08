@@ -3,6 +3,6 @@ production:
         server:
             unique_name: frontend
             type: BYOS
-            address: 162.243.80.215
+            address: 162.243.81.28
             username: root
             ssh_key_name: pk
